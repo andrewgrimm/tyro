@@ -1,3 +1,14 @@
+## Instructions
+- This app will run with the normal npm install/start/test/lint
+- I think I spent more than 2hrs on this. I have never implemented an infinite loading hook before so 
+it was a thoroughly enjoyable exercise - the api key is hardcoded in the files so the requests should work as is. - I was not able to get the intersection observer triggering in the tests which was a disappointment for me.
+
+
+
+
+
+
+
 ## Task for the candidate  
 Create a single-page web application - Getflix - that allows a user to enter criteria into a search input field and display matching titles on the page. For each search result, show the title, the poster, and year it released.  
 Clicking on a title should bring up a detailed view of the title - plot, cast, etc.  
